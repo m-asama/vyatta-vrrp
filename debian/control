@@ -12,6 +12,6 @@ Depends: perl,
  vyatta-cfg-system (>= 0.20.8),
  vyatta-op (>= 0.13.259),
  vyatta-bash | bash (>= 3.1),
- vyatta-keepalived (>= 1.2.2)
+ keepalived
 Description: Vyatta VRRP configureation/operational commands
  Vyatta configuration/operational templates and scripts for VRRP
